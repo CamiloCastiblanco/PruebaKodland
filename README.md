@@ -38,6 +38,7 @@ Asegúrate de tener instalado lo siguiente:
     ```bash
     python main.py
     ```
+## Juego
 
 El juego incluye:
 - **Menú de inicio:**  Para iniciar el juego te aparecerá un menú en dónde debes presionar la tecla "S" para poder comenzar a esquivar enemigos.
