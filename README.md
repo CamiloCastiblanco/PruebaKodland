@@ -33,11 +33,11 @@ Asegúrate de tener instalado lo siguiente:
     ```
 ### Ejecución
 
-Para iniciar el juego, ejecuta el siguiente comando:
+- Para iniciar el juego, ejecuta el siguiente comando:
 
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
 
 El juego incluye:
 - **Menú de inicio:**  Para iniciar el juego te aparecerá un menú en dónde debes presionar la tecla "S" para poder comenzar a esquivar enemigos.
