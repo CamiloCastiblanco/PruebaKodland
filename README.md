@@ -59,7 +59,7 @@ El juego incluye:
 Puedes personalizar el juego ajustando los siguientes parámetros en el código:
 
 - **Velocidad del jugador y enemigos:** Se puede modificar las velocidades en las funciones `create_object` y `game` según tus preferencias.
-- **Umbrales de aparición:** Ajusta los umbrales `vertical_enemy_threshold`, `horizontal_enemy_threshold` y `diagonal_enemy_threshold` para controlar cuándo aparecen diferentes tipos de enemigos.
+- **Umbrales de aparición:** Ajusta los umbrales `vertical_enemy_threshold` y `diagonal_enemy_threshold` para controlar cuándo aparecen diferentes tipos de enemigos.
 
 
 ## Contribuciones
