@@ -74,7 +74,7 @@ Correo Electrónico: kmilocastib22@outlook.com
 
 ## Licencia
 
-Este proyecto está bajo la [Licencia de Uso Público](LICENSE).
+Este proyecto está bajo la [GNU General Public License](LICENSE).
 
 ---
 
